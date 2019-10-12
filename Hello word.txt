@@ -1,3 +1,5 @@
-print("Hello Word!;")
+print("Hello Word;")
 print("Hello everybody;")
-print("Hello!;")
+print("Hello;")
+print("Hello my dear friends;")
+print("Glad to see you;")
